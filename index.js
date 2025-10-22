@@ -5,3 +5,5 @@ const obj = {
 }
 
 console.log(obj['a']);
+
+obj.a = 123
