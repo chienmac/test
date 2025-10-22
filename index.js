@@ -4,8 +4,6 @@ const obj = {
   'c': 3
 }
 
-console.log(obj['a']);
-
 obj.a = 123
 function name() {
   console.log(1);
