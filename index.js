@@ -5,3 +5,8 @@ const obj = {
 }
 
 console.log(obj['a']);
+
+obj.a = 123
+function name() {
+  console.log(1);
+}
