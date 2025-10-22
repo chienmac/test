@@ -4,7 +4,4 @@ const obj = {
   'c': 3
 }
 
-
-function name() {
-  console.log(1);
-}
+console.log(obj['a']);
